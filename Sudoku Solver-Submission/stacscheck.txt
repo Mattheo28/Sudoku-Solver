@@ -1,0 +1,62 @@
+bash-4.3$ stacscheck /cs/studres/CS2002/Practicals/Practical3-C2/stacscheck
+Testing CS2002 C2
+- Looking for submission in a directory called 'Practical3-C2': Already in it!
+* BUILD TEST - build-clean : pass
+* BUILD TEST - 1_sudoku_check_tests/build-sudoku_check : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-big-complete.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-big-incomplete.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-big-invalid-box.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-big-invalid-col.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-big-invalid-row.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_box_1.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_box_2.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_col_1.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_col_2.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_empty.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_row_1.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-check_row_2.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-complete-2.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-complete-3.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-incomplete-2.out : pass
+* COMPARISON TEST - 1_sudoku_check_tests/prog-sudoku_check-incomplete-3.out : pass
+* BUILD TEST - 2_sudoku_solver_tests/build-sudoku_solver : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-big-solvable-2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-big-solvable.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_box_1.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_box_2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_col_1.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_col_2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_empty.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_row_1.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-check_row_2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-complete-2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-complete-3.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-incomplete-2.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-incomplete-3.out : pass
+* COMPARISON TEST - 2_sudoku_solver_tests/prog-sudoku_solver-size-3.out : pass
+* BUILD TEST - 3_sudoku_advanced_tests/build-advanced_solver : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_box_1.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_box_2.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_col_1.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_col_2.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_empty.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_row_1.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-check_row_2.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-complete-2.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-complete-3.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-incomplete-2.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/basic/prog-sudoku_advanced-incomplete-3.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-4-a.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-4-b.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-4-c.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-4-d.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-a.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-b.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-c.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-d.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-e.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/hard/prog-sudoku_advanced-size-5-f.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/very_hard/prog-sudoku_advanced-size-4.out : pass
+* COMPARISON TEST - 3_sudoku_advanced_tests/very_hard/prog-sudoku_advanced-very_hard_1.out : pass
+57 out of 57 tests passed
+
